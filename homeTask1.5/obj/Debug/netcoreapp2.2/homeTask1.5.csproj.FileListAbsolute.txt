@@ -1,0 +1,11 @@
+/home/ludmila/RiderProjects/homeTask1/homeTask1.5/bin/Debug/netcoreapp2.2/homeTask1.5.deps.json
+/home/ludmila/RiderProjects/homeTask1/homeTask1.5/bin/Debug/netcoreapp2.2/homeTask1.5.runtimeconfig.json
+/home/ludmila/RiderProjects/homeTask1/homeTask1.5/bin/Debug/netcoreapp2.2/homeTask1.5.runtimeconfig.dev.json
+/home/ludmila/RiderProjects/homeTask1/homeTask1.5/bin/Debug/netcoreapp2.2/homeTask1.5.dll
+/home/ludmila/RiderProjects/homeTask1/homeTask1.5/bin/Debug/netcoreapp2.2/homeTask1.5.pdb
+/home/ludmila/RiderProjects/homeTask1/homeTask1.5/obj/Debug/netcoreapp2.2/homeTask1.5.csprojAssemblyReference.cache
+/home/ludmila/RiderProjects/homeTask1/homeTask1.5/obj/Debug/netcoreapp2.2/homeTask1.5.csproj.CoreCompileInputs.cache
+/home/ludmila/RiderProjects/homeTask1/homeTask1.5/obj/Debug/netcoreapp2.2/homeTask1.5.AssemblyInfoInputs.cache
+/home/ludmila/RiderProjects/homeTask1/homeTask1.5/obj/Debug/netcoreapp2.2/homeTask1.5.AssemblyInfo.cs
+/home/ludmila/RiderProjects/homeTask1/homeTask1.5/obj/Debug/netcoreapp2.2/homeTask1.5.dll
+/home/ludmila/RiderProjects/homeTask1/homeTask1.5/obj/Debug/netcoreapp2.2/homeTask1.5.pdb
